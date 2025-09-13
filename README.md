@@ -3,8 +3,6 @@
 Weatherly is a simple and beautiful **React + Vite** weather application that shows the **current weather** and **hourly forecast** for **Bengaluru, IN**.  
 It’s lightweight, fast, and responsive with a clean modern UI.
 
-[Live Demo 🚀](https://vaishnavigavhane.github.io/react-weatherly/)
-
 ---
 
 ## ✨ Features
