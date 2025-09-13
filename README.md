@@ -9,12 +9,12 @@ It’s lightweight, fast, and responsive with a clean modern UI.
 
 ## ✨ Features
 
-- 🌡️ Current weather: temperature, condition, feels like, humidity, wind speed, pressure, UV index  
-- ⏰ Hourly forecast (next 12–24 hours)  
-- 🌅 Sunrise & 🌇 Sunset times  
-- 📱 Fully responsive design  
-- ⚡ Built with **React + Vite**  
-- 🎨 Modern dark UI design  
+ 🌡️ Current weather: temperature, condition, feels like, humidity, wind speed, pressure, UV index  
+ ⏰ Hourly forecast (next 12–24 hours)  
+ 🌅 Sunrise & 🌇 Sunset times  
+ 📱 Fully responsive design  
+ ⚡ Built with **React + Vite**  
+ 🎨 Modern dark UI design  
 
 ---
 
